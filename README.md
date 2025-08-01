@@ -9,8 +9,13 @@ A Python-based File Integrity Monitoring (FIM) tool that uses SHA-256 hashing to
 - Works on Windows, Linux, and Mac
 
 ## How to Run
-```bash
-python fim.py
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Yashnale/File-Integrity-Checker.git
+   cd File-Integrity-Checker
+   python --version
+   python fim.py
+
 ## Author
 
 Developed by **Yashnale**
