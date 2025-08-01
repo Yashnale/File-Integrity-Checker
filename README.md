@@ -11,3 +11,6 @@ A Python-based File Integrity Monitoring (FIM) tool that uses SHA-256 hashing to
 ## How to Run
 ```bash
 python fim.py
+## Author
+
+Developed by **Yashnale**
